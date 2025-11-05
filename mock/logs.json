@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "created": "2025-11-05T14:11:06.590Z",
+      "country": "Thailand",
+      "drone_id": 3001,
+      "drone_name": "Falcon Eye",
+      "celsius": 122
+    },
+    {
+      "created": "2025-11-05T14:04:46.590Z",
+      "country": "Thailand",
+      "drone_id": 3001,
+      "drone_name": "Falcon Eye",
+      "celsius": 1212
+    },
+    {
+      "created": "2025-11-05T13:55:56.686Z",
+      "country": "Thailand",
+      "drone_id": 3001,
+      "drone_name": "Falcon Eye",
+      "celsius": 35
+    },
+    {
+      "created": "2025-11-05T13:48:23.579Z",
+      "country": "Thailand",
+      "drone_id": 3001,
+      "drone_name": "Falcon Eye",
+      "celsius": 33
+    },
+    {
+      "created": "2025-11-05T13:27:46.569Z",
+      "country": "Thailand",
+      "drone_id": 3001,
+      "drone_name": "Falcon Eye",
+      "celsius": 44
+    },
+    {
+      "created": "2025-11-05T13:24:04.343Z",
+      "country": "Thailand",
+      "drone_id": 3001,
+      "drone_name": "Falcon Eye",
+      "celsius": 132
+    },
+    {
+      "created": "2025-11-05T09:00:00Z",
+      "country": "Thailand",
+      "drone_id": 3001,
+      "drone_name": "Falcon Eye",
+      "celsius": 32.5
+    },
+    {
+      "created": "2025-11-04T08:00:00Z",
+      "country": "Thailand",
+      "drone_id": 3001,
+      "drone_name": "Falcon Eye",
+      "celsius": 31.2
+    }
+  ]
+}
